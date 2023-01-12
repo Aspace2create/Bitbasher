@@ -17,12 +17,20 @@ Pixel art kitbasher
 #commands...
 
 command x. delete highlighetd object
+#
 command w. move higlighted object up
+#
 command a. move higlighted object left
+#
 command s. move higlighted object down
+#
 command d. move higlighted object right
+#
 command + zoom in
+#
 commmand - zoom out
+#
 command [ bring object forward
+#
 command ] bring object back
 
