@@ -14,8 +14,8 @@ Pixel art kitbasher
 ![Alt text](Screenshots/ss1.png?raw=true "ss1")
 ![Alt text](Screenshots/ss2.png?raw=true "ss2")
 
-#commands...
-
+# commands...
+#
 command x. delete highlighetd object
 #
 command w. move higlighted object up
