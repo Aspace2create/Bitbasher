@@ -11,4 +11,4 @@ Pixel art kitbasher
 #
 *adding sprites 2% at least 10 sprites so far
 #
-![Alt text](Screenshots/sdfgyhj "Screenshot1")
+![Alt text](?raw=true "ss1")
