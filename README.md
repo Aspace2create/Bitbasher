@@ -40,3 +40,19 @@ command [ bring object forward
 #
 command ] bring object back
 
+# features to be included...
+
+Layer support: Adding support for layers would allow users to work on different parts of an image separately, and then combine them later. This can make it easier to make changes and revisions, and also allows for more complex images.
+
+Animation support: Adding support for animation would allow users to create animated pixel art, which can be used in games, videos, and other projects. This feature could include tools for creating and editing animation frames, as well as the ability to preview the animation.
+
+Customizable color palette: A customizable color palette would allow users to create their own set of colors to use when working on an image. This can be particularly useful for artists who have a specific color scheme in mind for a project.
+
+Brush and eraser tools: Brush and eraser tools would allow users to create more organic and freeform shapes, which can be useful for creating detailed images.
+
+Text tool: A text tool would allow users to add text to an image, which can be useful for creating labels, captions, or other types of text-based content.
+
+Symmetry mode: A symmetry mode would allow users to draw symmetrical shapes and patterns, which can be useful for creating certain types of pixel art, such as characters and backgrounds.
+
+Import and export options: Adding import and export options would allow users to work on images in other software and then import them into Bitbasher for further editing, or export their work to share with others.
+
