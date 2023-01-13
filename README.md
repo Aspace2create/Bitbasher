@@ -1,7 +1,7 @@
 # Bitbasher
 Pixel art kitbasher
 
-#Progress
+# Progress So far...
 
 The Bitbasher Pixel Art Kitbasher is an exciting new tool for creating and editing pixel art. It is currently under development and has made significant progress in several key areas.
 
