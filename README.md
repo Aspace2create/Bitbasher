@@ -19,7 +19,7 @@ Overall, the Bitbasher Pixel Art Kitbasher is shaping up to be a powerful and ve
 
 ![Alt text](Screenshots/ss1.png?raw=true "ss1")
 ![Alt text](Screenshots/ss2.png?raw=true "ss2")
-![Alt text](Screen Recording 2023-01-16 at 3.38.30 PM.mov?raw=true "vid")
+![Alt text](sr.mov?raw=true "vid")
 
 # commands...
 #
